@@ -2,8 +2,9 @@
 python program to create barcode with different type of barcodes and QR code
 
 Installation
-pip install python-barcode
-pip install pyqrcode
+
+- pip install python-barcode
+- pip install pyqrcode
 
 
 Provided Barcodes
